@@ -1,0 +1,15 @@
+{
+    "sheet_name": "Table 1",
+    "date": "12\/31\/2024 11:49:33 PM",
+    "confirmation_code": "2931429366008545900000",
+    "amount": 3880,
+    "transaction_type": "income",
+    "commission": 85.36,
+    "net_amount": 3794.64,
+    "net_transaction_type": "income",
+    "_parsedDate": {
+        "date": "2024-12-31 23:49:33.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    }
+}
